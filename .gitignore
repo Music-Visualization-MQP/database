@@ -1,0 +1,4 @@
+init-env.sh
+.DS_Store
+.env
+/.idea/
